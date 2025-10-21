@@ -1,0 +1,8 @@
+##🚀 Intent Demo App
+
+A simple Android app demonstrating how to pass
+data between two activities using **Explicit Intent** in Kotlin.
+--
+## **About the App**
+This app contains two activities :
+1.**MainActivity** - where the user enter theirs their name in an EditText and clicks the **send** button.
