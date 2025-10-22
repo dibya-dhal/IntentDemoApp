@@ -9,4 +9,4 @@ This app contains two activities :
 2.**SecondActivity** - receives the name and display a **welcome message with Name** using a TextView.
 
 Example:
-> User enters "Rohan" - Second Activity shows **Welcome Dibya!** 
+> User enters "Rohan" - Second Activity shows **Welcome Rohan!** 
