@@ -11,4 +11,4 @@ This app contains two activities :
 Example:
 > User enters "Rohan" - Second Activity shows **Welcome Rohan!**
 >
-<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/5d2053fd-7865-4f09-9745-102410109e8d" />
+<img width="300" alt="Image" src="https://github.com/user-attachments/assets/5d2053fd-7865-4f09-9745-102410109e8d" />
